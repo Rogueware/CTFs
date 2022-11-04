@@ -1,4 +1,4 @@
 # CTFs
 
 ## PicoCTFGym
-### [Web Exploitiation](PicoCTFGym/WebExploitation/WebExploitation.md)
+### [Web Exploitation](PicoCTFGym/WebExploitation/WebExploitation.md)
