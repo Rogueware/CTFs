@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f9cf5e251c3a43ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "520130066e041c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8282fc341c4f5739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTFGym/WebExploitation/WebExploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10639bd0d5ebab3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7431d6cc604a4ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb7b4ada1b89f0de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0894c5e26879e8a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16472e8d9ccd54ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28cee4ff28bc1003",
+    "type": "split",
+    "children": [
+      {
+        "id": "326f86c13a18ab11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73040ee11eb34dcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTFGym/WebExploitation/WebExploitation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf1f41e3f5266d63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PicoCTFGym/WebExploitation/WebExploitation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "487fcb926aec2d3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac174c5fa16d3b54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PicoCTFGym/WebExploitation/WebExploitation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8282fc341c4f5739",
+  "lastOpenFiles": [
+    "README.md",
+    "PicoCTFGym/WebExploitation/WebExploitation.md",
+    "Pasted image 20221104225955.png.md"
+  ]
+}
